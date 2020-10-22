@@ -9,6 +9,6 @@ h2{
 	text-align: center;
 	color: lightyellow;
 }
-a{
-	color: yellow;
+a{ font-size: large;
+	color: hsl(141, 100%, 86%) ;
 }
